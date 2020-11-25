@@ -5,7 +5,7 @@ title: learn python
 
 # Top three websites to learn python
 
-In this post i'm going to introduse 3 websites that are really usefulll and effective in your learning process.
+In this post i'm going to introduce 3 websites that are really usefulll and effective in your learning process.
 
 ## realpython.com
 
@@ -20,6 +20,6 @@ In this post i'm going to introduse 3 websites that are really usefulll and effe
 
 
 ## projecteuler.net
-![projecteuler.net)](../assets/images/projecteuler.jpg)
+![projecteuler.net](../assets/images/projecteuler.jpg)
 in [projecteuler](https://projecteuler.net/) there are 700 math questions that are sorted from easy to hard. there are some questions that are solved by only 100 or maybe 200 people. so if you are interested in mathematicts and programing, this website is a great choice for you.
 
