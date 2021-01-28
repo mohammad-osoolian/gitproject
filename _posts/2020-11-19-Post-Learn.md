@@ -35,7 +35,7 @@ line
 10*enter line
 
 
-That man in down right was my teacher in iust((International |(logical or) Iran) university of sciense and technology).
+That man in right down corner was my teacher in iust (Iran university of sciense and technology).
 actually he is now but for anyone who reads this post 1 year after 2020-19-11, he was my teacher.
 
 ![alt text](../assets/images/grouppic.jpg "Team Picture")

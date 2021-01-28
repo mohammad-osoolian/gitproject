@@ -8,10 +8,17 @@ modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+### friends
+* Pooria Rahimi
+* Navid Ebrahimi
+* Sina Alinejad
+* AmirHosein Alian
+* Mahdi Mostafavi
+* Mahdi Javid(Shrazie)
+* Amin RavanBakhsh
+* Aquila
+* Hame frizonia gheir az 3 ta
+* Reza Dormishian
 
 
 
